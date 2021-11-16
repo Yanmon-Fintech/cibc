@@ -1,2 +1,3 @@
 Welcome to CIBC
-your finacial partener
+your finacial partner
+Bug removed from the application
